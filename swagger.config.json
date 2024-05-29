@@ -1,0 +1,6 @@
+{
+    "url": "./swagger.json",
+    "dir": "./services",
+    "prefix": "/api"
+  }
+  

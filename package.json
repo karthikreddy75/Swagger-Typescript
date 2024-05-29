@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "axios": "^1.7.2",
+    "prettier": "^3.2.5",
+    "swagger-typescript": "^6.8.0",
+    "swagger-typescript-api": "^13.0.3"
+  },
+  "scripts": {
+    "generate:api": "swagger-typescript-api -p swagger.config.json"
+  }
+}
